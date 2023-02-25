@@ -1,6 +1,6 @@
 # Yandex-Practicum
 ## Репозиторий курса "Специалист по Data Science"
-**Yandex Practicum / Sprint #3 - Big Cities Music**
+### Yandex Practicum / Sprint #3 - Big Cities Music
 
 *Описание проекта*
 
