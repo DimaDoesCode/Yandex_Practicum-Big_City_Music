@@ -4,7 +4,7 @@
 
 *Project Description*
 
-<img src="https://github.com/DimaDoesCode/Yandex_Practicum-Big_City_Music/raw/master/music_users.png" width="100" height="100" align="left"/>
+<img src="https://github.com/DimaDoesCode/Yandex_Practicum-Big_City_Music/raw/master/music_users.png" width="150" height="150" align="left"/>
 Comparison of Moscow and St. Petersburg is surrounded by myths:
 - Moscow is a metropolis subject to a strict work week rhythm;
 - St. Petersburg is a city of unique culture, unlike Moscow.
