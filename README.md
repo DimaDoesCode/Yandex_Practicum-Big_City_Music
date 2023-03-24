@@ -10,7 +10,7 @@ Comparison of Moscow and St. Petersburg is surrounded by myths:
 - St. Petersburg is a city of unique culture, unlike Moscow.
 Some myths reflect reality. Others are empty stereotypes. Business should distinguish the first from the second in order to make rational decisions. Hypotheses are tested and user behavior in the two capitals is compared based on real data from Yandex Music.
 
-<br clear="left"/>*This project was completed during the learning process in Yandex.Practicum, in the Data Science Specialist profession.*
+<br clear="left"/><br>*This project was completed during the learning process in Yandex.Practicum, in the Data Science Specialist profession.*
 
 | Project Name | Description | Libraries used |
 | :---------------------- | :---------------------- | :---------------------- |
