@@ -11,6 +11,6 @@ Some myths reflect reality. Others are empty stereotypes. Business should distin
 
 *This project was completed during the learning process in Yandex.Practicum, in the Data Science Specialist profession.*
 
-| Project Name | Description | Used Libraries |
+| Project Name | Description | Libraries used |
 | :---------------------- | :---------------------- | :---------------------- |
 | [Music of big cities](big_cities_music) | Comparison of preferences of Yandex.Music users from Moscow and St. Petersburg depending on the time of day (morning and evening) and day of the week (Monday, Wednesday, Friday).| *pandas* |
