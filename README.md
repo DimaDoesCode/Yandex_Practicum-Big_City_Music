@@ -1,16 +1,16 @@
 # Yandex-Practicum <a id='big_cities_music'></a>
-## Репозиторий курса "Специалист по Data Science"
+## Repository of the Data Science Specialist course.
 ### Yandex Practicum / Sprint #3 - Big Cities Music
 
-*Описание проекта*
+*Project Description*
 
-Сравнение Москвы и Петербурга окружено мифами:
-- Москва — мегаполис, подчинённый жёсткому ритму рабочей недели;
-- Петербург — город своеобразной культуры, непохожий на Москву.
-Некоторые мифы отражают действительность. Другие — пустые стереотипы. Бизнес должен отличать первые от вторых, чтобы принимать рациональные решения. На реальных данных Яндекс Музыки проверяются гипотезы и и производится сравнение поведения пользователей двух столиц
+Comparison of Moscow and St. Petersburg is surrounded by myths:
+- Moscow is a metropolis subject to a strict work week rhythm;
+- St. Petersburg is a city of unique culture, unlike Moscow.
+Some myths reflect reality. Others are empty stereotypes. Business should distinguish the first from the second in order to make rational decisions. Hypotheses are tested and user behavior in the two capitals is compared based on real data from Yandex Music.
 
-*Данный проект был выполнен в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science"*
+*This project was completed during the learning process in Yandex.Practicum, in the Data Science Specialist profession.*
 
-| Название проекта | Описание | Используемые библиотеки | 
+| Project Name | Description | Used Libraries |
 | :---------------------- | :---------------------- | :---------------------- |
-| [Музыка больших городов](big_cities_music) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)| *pandas* |
+| [Music of big cities](big_cities_music) | Comparison of preferences of Yandex.Music users from Moscow and St. Petersburg depending on the time of day (morning and evening) and day of the week (Monday, Wednesday, Friday).| *pandas* |
